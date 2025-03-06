@@ -14,3 +14,6 @@ Department of Computer Science, National Yang Ming Chiao Tung University, ChiaoT
 Sensors 2025, 25(1), 57; https://doi.org/10.3390/s25010057
 Submission received: 26 November 2024 / Revised: 18 December 2024 / Accepted: 20 December 2024 / Published: 25 December 2024
 (This article belongs to the Special Issue Analyzation of Sensor Data with the Aid of Deep Learning)
+
+## Data Availability Statement
+The data belong to ITRI and are available upon request.
